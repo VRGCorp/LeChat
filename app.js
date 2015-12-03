@@ -79,3 +79,6 @@ function errorCallback(error){
 }
 
 navigator.getUserMedia(constraints, successCallback, errorCallback);
+<html>
+  <video />
+</html>
